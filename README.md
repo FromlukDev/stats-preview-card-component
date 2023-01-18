@@ -8,9 +8,9 @@ This is a solution to the Stats preview card component challenge on Frontend Men
 
 Screenshot
 
-Links
+#Links
 
-    Solution URL: Add solution URL here
+    #Solution URL: https://fromlukdev.github.io/stats-preview-card-component/
     Live Site URL: Add live site URL here
 
 Built with
