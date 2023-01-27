@@ -14,7 +14,10 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ### Screenshot
 
 ![](images/screenshot-desktop.png)
+<<<<<<< HEAD
 ![](images/screenshot-mobile.png)
+=======
+>>>>>>> c5b12fb60596f174cec2b2cbacb7fa821beacf74
 
 ### Links
 
