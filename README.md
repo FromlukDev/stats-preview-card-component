@@ -12,7 +12,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
   - [Acknowledgments](#acknowledgments)
-
+  
 ### The challenge
 
 Users should be able to:
