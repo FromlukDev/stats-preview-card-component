@@ -16,13 +16,11 @@
   <body>
     <main>
       <article class="card-container">
-        <header class="hero">
-          <img
-            class="hero-img"
-            src="images/header-img.png"
-            alt="a photo of three women working at an office with their computers"
-          />
-        </header>
+        <picture class="hero-img">
+          <source media="(min-width: 678px)" srcset="images/img-desktop.jpg 446w">
+          <source media="(min-width: 375px)" srcset="images/img-mobile.jpg 480w">
+          <img class="hero-img" src="images/img-desktop.jpg" alt="">
+        </picture>
         <div class="text-content">
           <h1 class="hero-title">
             Get <span class="title-accent">insights</span> that help your

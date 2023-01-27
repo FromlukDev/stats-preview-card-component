@@ -95,14 +95,20 @@ body {
 main {
   display: flex;
   justify-content: center;
-  height: fit-content;
-  width: fit-content;
+  max-width: fit-content;
   border-radius: .6rem;
   margin: 1rem;
+
+}
+
+img {
+  opacity: .8;
+  mix-blend-mode: multiply;
 }
 
 .hero-img {
   border-radius: 0.6rem 0.6rem 0 0;
+  background-color: hsl(277, 64%, 61%);
 }
 
 
@@ -113,7 +119,7 @@ main {
   justify-content: flex-start;
   flex-direction: column;
   gap: 2rem;
-  width: fit-content;
+  max-width: fit-content;
   border-radius: .6rem;
 }
 
@@ -181,6 +187,7 @@ main {
   main {
     display: flex;
     flex-direction: row;
+    max-width: 1440px;
   }
 
   .card-container {
@@ -188,14 +195,18 @@ main {
     display: flex;
     flex-direction: row-reverse;
     gap: 2rem;
+    max-width: 1440px;
+    border-radius: .6rem;
+
   }
 
-  .hero {
-    width: 600px;
+  img {
+    max-width: 480px;
   }
 
   .hero-img {
     border-radius: 0 0.6rem 0.6rem 0;
+
   }
 
   .hero-title {
