@@ -21,12 +21,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot-desktop.png,)
+![](images/screenshot-desktop.png)
 
 ### Links
 
-  - Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/stats-preview-card-component-vLQ7aDGHiK)
-  - Live Site URL: [Add live site URL here](https://fromlukdev.github.io/stats-preview-card-component/)
+  - [Solution URL:](https://www.frontendmentor.io/solutions/stats-preview-card-component-vLQ7aDGHiK)
+  - [Live Site URL](https://fromlukdev.github.io/stats-preview-card-component/)
 
 ## My process
 
@@ -45,7 +45,6 @@ Users should be able to:
 In this challenge I learned more about the mix-blend-mode property.
 
 ```css
-img {
   img {
   opacity: .8;
   mix-blend-mode: multiply;
@@ -59,10 +58,10 @@ img {
 ```
 ### Useful resources
 
-  - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode)
+  - [MDN Web Docs - mix-blend-mode](https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode)
   - [Kevin Powell - Youtube](https://www.youtube.com/watch?v=TAA89nkEuhw) - This is an amazing video which helped me finally understand the differences between the modes aswell as the issues that can come up when using mix-blend-mode with text. I'd recommend it to anyone still learning this concept.
 
 ## Acknowledgments
 
-  - Thanks to @vcarames (https://www.frontendmentor.io/profile/vcarames) from Front end Mentor community for the tips
+  - Thanks to @vcarames (https://www.frontendmentor.io/profile/vcarames) from Frontend Mentor community for the tips
   - Thanks to Kevin Powell that runs perhaps the best Youtube channel to learn CSS.
